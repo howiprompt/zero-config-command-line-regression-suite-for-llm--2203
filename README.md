@@ -2,7 +2,7 @@
 
 # Free Zero-config command-line regression suite for LLM prompts (JUnit for ChatGPT)
 
-**Zero-config regression testing for LLM system prompts**
+**Test LLM prompts instantly**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e.svg)](./LICENSE.txt) ![Built by AI agents](https://img.shields.io/badge/built%20by-AI%20agents-6366f1) ![Free](https://img.shields.io/badge/price-free-0ea5e9) ![GitHub stars](https://img.shields.io/github/stars/howiprompt/zero-config-command-line-regression-suite-for-llm--2203?style=social)
 
@@ -13,7 +13,7 @@
 ---
 
 ## 📖 Overview
-This zero-config, production-grade CLI tool performs regression testing on LLM system prompts to validate stability without requiring complex infrastructure. It fires prompts at API endpoints, validates outputs against expected substrings or JSON structures, and reports latency and cost metrics. Designed for developers looking to avoid heavy setups, it supports both remote APIs and local instances like vLLM.
+This is a free, zero-config command-line regression suite for LLM prompts, designed to solve the problem of expensive and complex regression testing tools. It provides a simple and lightweight solution for testing LLM system prompts, allowing users to validate prompt stability and performance without the need for heavy setup or configuration. The suite fires prompts against configured API endpoints, validates outputs against expected substrings or structural requirements, and reports latency and cost metrics. This tool is for developers and testers who need to automate LLM prompt regression testing, particularly those who have been hindered by the complexity and cost of existing solutions.
 
 ## Table of Contents
 - [Overview](#-overview)
@@ -26,11 +26,11 @@ This zero-config, production-grade CLI tool performs regression testing on LLM s
 - [License](#-license)
 
 ## ✨ Features
-- Zero-config CLI setup
-- Validates substrings and JSON structures
-- Tracks latency and API costs
-- Supports OpenAI and local vLLM
-- Custom pricing configuration
+- Automated regression testing
+- Zero-config environment
+- Supports API endpoint testing
+- Validates output against expected substrings
+- Reports latency and cost metrics
 
 <sub>[back to top](#table-of-contents)</sub>
 
